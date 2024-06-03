@@ -28,8 +28,8 @@ To set up the project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/Devil-Code/SIEM-with-IDS-using-ML.git
+   cd SIEM-with-IDS-using-ML
    ```
 
 2. **Run the installation script:**
@@ -67,10 +67,10 @@ After running the script, you can access Kibana at: `ip_addr:port`
 
 ##Screenshots
 
-![Alt Text](./screenshots/recon.png)
+![Alt Text](./screenshots/recon.jpg)
 Reconnaissance Flagged!!!
 
-![Alt Text](./screenshots/anamoly.png)
+![Alt Text](./screenshots/anamoly.jpg)
 Anamoly Flagged!!!
 
 ## Project Structure
