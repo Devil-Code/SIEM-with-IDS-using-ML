@@ -67,7 +67,7 @@ After running the script, you can access Kibana at: `ip_addr:port`
 
 ##Screenshots
 
-![Alt Text](./screenshots/recon.jpg)
+![Alt Text](./screenshots/reconn.jpg)
 Reconnaissance Flagged!!!
 
 ![Alt Text](./screenshots/anamoly.jpg)
