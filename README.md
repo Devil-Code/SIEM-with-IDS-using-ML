@@ -2,6 +2,8 @@
 
 This project integrates a Security Information and Event Management (SIEM) system with an Intrusion Detection System (IDS) utilizing machine learning. The setup uses various tools and services like Zeek, Elasticsearch, Kibana, Logstash, Filebeat, and the Stratosphere Linux IPS for enhanced network security monitoring and threat detection.
 
+![Alt Text](screenshots/architecture.PNG)
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
@@ -53,7 +55,7 @@ To start the services and deploy the IDS, run the following script:
 chmod +x run.sh
 sudo ./run.sh
 ```
-![Alt Text](Image_URL)
+![Alt Text](screenshots/SIEM.PNG)
 
 This script performs the following actions:
 - Starts the Elasticsearch, Kibana, and Filebeat services.
