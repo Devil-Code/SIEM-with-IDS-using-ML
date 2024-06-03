@@ -65,7 +65,7 @@ This script performs the following actions:
 
 After running the script, you can access Kibana at: `ip_addr:port`
 
-##Screenshots
+## Screenshots
 
 ![Alt Text](screenshots/recon.JPG)
 
