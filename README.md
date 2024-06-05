@@ -71,11 +71,11 @@ After running the script, you can access Kibana at: `ip_addr:port`
 
 ![Alt Text](screenshots/recon.JPG)
 
-Reconnaissance Flagged!!!
+Reconnaissance Detected!!!
 
 ![Alt Text](./screenshots/anamoly.JPG)
 
-Anamoly Flagged!!!
+Anamoly Detected!!!
 
 ## Project Structure
 
